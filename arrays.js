@@ -1,6 +1,6 @@
 //array can hold ['abc',1,{}]
 //
-const hobbies = [ 'computers','cars','bikes']
+const hobbies = [ 'computers','cars','bikes'];
 for(hobby in hobbies){
     console.log(hobbies[hobby]);
 }
